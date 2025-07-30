@@ -1,7 +1,7 @@
 # Tersorflow Remote Code Execution with Malicious Model
 
 Repository for the scripts presented in the blogpost: 
-https://splint.gitbook.io/cyberblog/security-research/tersorflow-remote-code-execution-with-malicious-model
+[https://mastersplinter.work/research/tensorflow-rce/](https://mastersplinter.work/research/tensorflow-rce/)
 
 ## Files
 
